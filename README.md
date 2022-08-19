@@ -8,3 +8,5 @@ This is important to learn
 I'm now writing from my local computer
 
 Another remote change
+
+Another local change
